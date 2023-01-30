@@ -185,8 +185,7 @@ To configure the lead management information for your offer in the publishing po
 1. If you selected **Office 365**, enter the **User name** (for example, `contoso@contoso.onmicrosoft.com`) and **Password** (for example, `P@ssw0rd`).
 
     ![Office 365 User name box](media/commercial-marketplace-lead-management-instructions-dynamics/connection-details-authentication.png)
-
-1. For **Contact email**, enter email addresses for people in your company who should receive email notifications when a new lead is received. You can enter multiple email addresses by separating them with semicolons.
+    
 1. Select **OK**.
 
 To make sure you've successfully connected to a lead destination, select the **Validate** button. If successful, you'll have a test lead in the lead destination.
