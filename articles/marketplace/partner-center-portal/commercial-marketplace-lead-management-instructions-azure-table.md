@@ -189,8 +189,6 @@ When you're ready to configure the lead management information for your offer in
 1. Paste in the connection string from the Azure storage account you created by following earlier steps in the **Storage account connection string** box.
      ![Lead management, Connection details storage account](./media/commercial-marketplace-lead-management-instructions-azure-table/azure-table-connection-details.png)
 
-1. **Contact email**: Provide emails for people in your company who should receive email notifications when a new lead is received. You can provide multiple emails by separating them with semicolons.
-
 1. Select **OK**.
 
 To make sure you have successfully connected to a lead destination, select the **Validate** button. If successful, you'll have a test lead in the lead destination.
