@@ -239,8 +239,6 @@ When you're ready to configure the lead management information for your offer in
 1. In the **Connection details** pop-up window, select **HTTPS Endpoint** for the **Lead Destination**. Paste the HTTP POST URL from the flow you created by following earlier steps into the **HTTPS endpoint URL** field.
     ![Connection details Contact email](./media/commercial-marketplace-lead-management-instructions-https/https-connection-details.png)
 
-1. Under **Contact email**, enter email addresses for people in your company who should receive email notifications when a new lead is received. You can provide multiple emails by separating them with a semicolon.
-
 1. Select **OK**.
 
 To make sure you have successfully connected to a lead destination, select the **Validate** button. If successful, you'll have a test lead in the lead destination.
