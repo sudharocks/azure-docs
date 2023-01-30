@@ -73,8 +73,6 @@ When you're ready to configure the lead management information for your offer in
 
    ![Connection details pop-up window Validate Contact email box.](./media/commercial-marketplace-lead-management-instructions-salesforce/salesforce-connection-details.png)
 
-1. Under **Contact email**, enter email addresses for people in your company who should receive email notifications when a new lead is received. You can provide multiple emails by separating them with a semicolon.
-
 1. Select **OK**.
 
 To make sure you've successfully connected to a lead destination, select **Validate**. If successful, you'll have a test lead in the lead destination.
