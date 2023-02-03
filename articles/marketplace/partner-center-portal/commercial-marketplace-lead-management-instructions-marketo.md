@@ -31,6 +31,10 @@ This article describes how to set up your Marketo CRM system to process sales le
 1.  Fill in the required fields in the **New Form** dialog box, and then select **Create**.
 
     ![Marketo create new form](./media/commercial-marketplace-lead-management-instructions-marketo/marketo-3.png)
+    
+1. Ensure that the fields mappings are setup correctly. Here are the list of fields that the connector needs to be setup on the form. 
+Note: The field with name "Lead Source" is expected to be configured in the form. It can be mapped to the **SourceSystemName** system field in Marketo or a custom field.
+
 
 1.  On the **Field Details** page, select **Finish**.
 
