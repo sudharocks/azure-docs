@@ -35,6 +35,8 @@ This article describes how to set up your Marketo CRM system to process sales le
 1. Ensure that the fields mappings are setup correctly. Here are the list of fields that the connector needs to be setup on the form. 
 Note: The field with name "Lead Source" is expected to be configured in the form. It can be mapped to the **SourceSystemName** system field in Marketo or a custom field.
 
+    ![Marketo form details](./media/commercial-marketplace-lead-management-instructions-marketo/marketo-field-mapping.png)
+
 
 1.  On the **Field Details** page, select **Finish**.
 
